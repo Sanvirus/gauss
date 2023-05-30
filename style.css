@@ -1,0 +1,43 @@
+
+
+h1{
+    padding-bottom: 50px;
+}
+
+body{
+    text-align: center;
+}
+
+
+
+.brackets {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#bracket_img{
+    height: 20vh;
+    margin-top: -3vh;
+}
+.btn{
+    border: none;
+    height: 5vh;
+    width: 300px;
+    background-color: rgba(64, 64, 248, 0.479);
+    border-radius: 5px;
+
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+}
+.input_box{
+    width: 50px;
+}
+
+.to_row{
+    display: flex;
+}
